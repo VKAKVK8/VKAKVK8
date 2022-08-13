@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @VKAKVK8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VKAKVK8/VKAKVK8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vikram Kumar
+- 👀 I’m interested in chess & programming
+- 🌱 I’m currently persuing graduation in CSE
+- 📫 You can raach me by - vkakvk8@gmail.com                     
