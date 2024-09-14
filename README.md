@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Vikram Kumar
-- 👀 I’m interested in chess & programming
-- 🌱 I’m currently persuing graduation in CSE
-- 📫 You can reach me by - vkakvk8@gmail.com                     
+
